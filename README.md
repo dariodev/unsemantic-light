@@ -23,7 +23,7 @@ Unsemantic Light consists of a single file - unsemantic-light.css. Mobile, Table
 Nathan Smith is the creator of original [Unsemantic CSS Framework](http://unsemantic.com)  
 **Copyright** &copy; 2015 Nathan Smith
 
-This is dual-licensed this under MIT and GPL.
+This is dual-licensed under MIT and GPL.
 
 Basically, you can use the code under whichever license you prefer.
 
